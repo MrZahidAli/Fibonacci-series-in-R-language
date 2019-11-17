@@ -1,3 +1,4 @@
+#Fibonacci using simple arrays and funtions
 arr[1]<-1
 arr[2]<-1
 fabnochi <- function(n){
